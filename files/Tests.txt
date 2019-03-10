@@ -1,0 +1,194 @@
+raise raise check fold check
+moneyIn moneyIn stall lose lose
+raise raise check fold fold check raise fold check check raise check fold check fold fold raise raise check raise raise
+moneyIn moneyIn stall lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+raise raise check raise fold fold
+moneyIn moneyIn stall win win win
+raise raise fold fold raise check fold fold
+moneyIn moneyIn lose lose lose lose lose lose
+check raise raise check fold fold check raise check check check raise raise check fold fold raise fold fold raise check
+moneyIn moneyIn stall win win win win win win win win win win win win win win win win win win
+fold raise check check fold fold fold fold check check fold check fold fold raise fold check raise check raise check
+restart moneyIn stall stall restart restart restart restart moneyIn stall lose lose lose lose lose lose lose lose lose lose lose
+fold check raise raise raise raise fold raise check check fold fold fold raise fold fold fold raise fold raise fold
+restart moneyIn moneyIn stall win win win win win win win win win win win win win win win win win
+raise raise check raise raise raise raise fold check check raise fold fold raise fold
+moneyIn moneyIn stall win win win win win win win win win win win win
+check check fold raise fold raise fold check
+moneyIn stall restart moneyIn lose lose lose lose
+raise check fold fold check fold check check fold fold raise fold check fold
+moneyIn stall restart restart moneyIn lose lose lose lose lose lose lose lose lose
+fold fold
+restart restart
+check fold fold fold check fold fold raise check check fold fold
+moneyIn restart restart restart moneyIn lose lose lose lose lose lose lose
+check raise fold raise
+moneyIn moneyIn lose lose
+raise check fold
+moneyIn stall restart
+fold raise raise raise raise
+restart moneyIn moneyIn stall win
+check raise raise check raise raise fold fold raise raise check check check raise fold check check raise check
+moneyIn moneyIn stall win win win win win win win win win win win win win win win win
+raise check raise raise raise raise raise fold raise raise check raise fold check raise fold check fold check raise check
+moneyIn stall moneyIn lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+raise check raise fold fold raise raise check raise raise raise fold fold fold raise raise fold check raise check raise
+moneyIn stall moneyIn lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+fold fold fold fold fold fold fold check raise check raise check raise fold raise raise fold fold raise fold check
+restart restart restart restart restart restart restart moneyIn moneyIn stall win win win win win win win win win win win
+check fold check check raise raise check raise fold raise check check raise raise check check fold fold check check check
+moneyIn restart moneyIn stall stall win win win win win win win win win win win win win win win win
+check check raise check raise fold check check raise raise fold fold check raise raise raise check fold fold check fold
+moneyIn stall moneyIn lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+check raise fold raise fold raise fold fold raise raise raise raise fold fold check raise raise fold fold check check
+moneyIn moneyIn lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+raise raise check check check check raise check raise raise fold fold raise check
+moneyIn moneyIn stall win win win win win win win win win win win
+check raise fold fold fold fold
+moneyIn moneyIn lose lose lose lose
+fold check raise raise raise raise check check check check fold fold check raise fold fold raise raise check raise raise
+restart moneyIn moneyIn stall win win win win win win win win win win win win win win win win win
+check check raise raise raise check raise raise check check check fold check fold check check check check fold raise raise
+moneyIn stall moneyIn lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+raise check check raise check check raise raise fold raise
+moneyIn stall stall win win win win win win win
+fold raise fold raise raise fold fold raise check fold fold check check fold fold check raise raise raise raise raise
+restart moneyIn restart moneyIn stall lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+fold fold fold raise fold fold raise check raise raise raise fold raise fold check check raise
+restart restart restart moneyIn restart restart moneyIn stall stall win win win win win win win win
+fold check check
+restart moneyIn stall
+check fold raise fold raise check check check check
+moneyIn restart moneyIn lose lose lose lose lose lose
+check check check raise raise raise
+moneyIn stall stall win win win
+fold check fold raise fold raise fold raise check check check fold fold fold raise check check raise fold fold check
+restart moneyIn restart moneyIn lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+check
+moneyIn
+check raise fold fold fold raise check check check check check fold raise check raise fold raise raise fold check check
+moneyIn moneyIn lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+fold fold raise raise check fold raise raise fold check fold fold fold raise check fold fold fold check
+restart restart moneyIn moneyIn stall lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+raise fold check check fold
+moneyIn restart moneyIn stall lose
+check raise raise fold fold check raise check fold fold raise
+moneyIn moneyIn stall lose lose lose lose lose lose lose lose
+fold fold fold raise check fold fold check raise fold raise raise raise check check check raise
+restart restart restart moneyIn stall restart restart moneyIn stall lose lose lose lose lose lose lose lose
+check fold fold check raise fold raise fold fold fold raise check fold raise raise fold
+moneyIn restart restart moneyIn stall lose lose lose lose lose lose lose lose lose lose lose
+check check fold raise check check check raise raise fold fold fold fold raise raise fold check check fold raise fold
+moneyIn stall restart moneyIn stall stall win win win win win win win win win win win win win win win
+raise fold check raise
+moneyIn restart moneyIn stall
+fold raise fold check check fold raise raise check fold raise check check check raise raise fold raise check fold check
+restart moneyIn restart moneyIn stall lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+fold raise raise check raise fold raise check check check fold raise check raise check raise fold raise check fold fold
+restart moneyIn moneyIn stall win win win win win win win win win win win win win win win win win
+check raise check fold fold check raise fold raise fold fold fold check raise fold check fold check check raise raise
+moneyIn moneyIn stall lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+check check raise check fold raise fold check fold fold fold fold
+moneyIn stall moneyIn lose lose lose lose lose lose lose lose lose
+fold check fold check fold check fold check fold check fold check fold raise check check check raise check raise raise
+restart moneyIn restart moneyIn lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+check fold raise check check raise fold check raise fold check fold
+moneyIn restart moneyIn stall stall win win win win win win win
+raise check raise fold check raise fold raise check raise raise raise raise raise fold check raise check fold fold check
+moneyIn stall moneyIn lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+check check
+moneyIn stall
+fold fold raise raise check fold raise fold fold raise raise raise raise raise check raise fold check fold check check
+restart restart moneyIn moneyIn stall lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+check fold raise fold raise raise check raise raise fold check raise raise fold fold raise check
+moneyIn restart moneyIn lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+fold fold fold check raise fold check check fold check raise fold fold fold fold raise check raise check
+restart restart restart moneyIn moneyIn lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+raise fold fold raise fold check fold check fold fold check check check raise check fold fold
+moneyIn restart restart moneyIn lose lose lose lose lose lose lose lose lose lose lose lose lose
+fold check raise
+restart moneyIn moneyIn
+check fold raise check check fold fold fold check raise
+moneyIn restart moneyIn stall stall lose lose lose lose lose
+fold raise
+restart moneyIn
+fold check fold fold raise fold check
+restart moneyIn restart restart moneyIn lose lose
+fold check fold fold check raise fold check fold raise raise check
+restart moneyIn restart restart moneyIn stall lose lose lose lose lose lose
+fold check check fold raise raise check fold fold raise check raise check check fold check raise fold raise raise fold
+restart moneyIn stall restart moneyIn stall stall lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+raise raise check check raise check raise raise raise check check raise fold raise raise raise raise
+moneyIn moneyIn stall win win win win win win win win win win win win win win
+fold check check fold fold raise check raise raise fold raise check raise raise fold check raise check raise check check
+restart moneyIn stall restart restart moneyIn stall stall win win win win win win win win win win win win win
+check raise check raise check raise raise raise fold fold fold fold raise fold fold fold fold fold fold raise check
+moneyIn moneyIn stall win win win win win win win win win win win win win win win win win win
+raise check raise fold raise fold raise
+moneyIn stall moneyIn lose lose lose lose
+raise check check fold raise raise check fold fold raise check raise check check fold fold check raise fold raise check
+moneyIn stall stall restart moneyIn stall stall lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+raise fold raise check check fold check raise raise check raise check fold fold raise check check raise
+moneyIn restart moneyIn stall stall lose lose lose lose lose lose lose lose lose lose lose lose lose
+check fold raise raise check raise raise check check raise raise raise raise check raise raise check raise raise raise
+moneyIn restart moneyIn stall stall win win win win win win win win win win win win win win win
+fold check fold check raise fold raise check raise check check fold raise raise check fold check check raise fold fold
+restart moneyIn restart moneyIn stall lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+raise raise fold raise check raise check raise raise raise raise check check raise raise check check check check check fold
+moneyIn moneyIn lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+check raise raise check fold fold fold fold check raise check raise check fold fold fold fold raise fold check fold
+moneyIn moneyIn stall win win win win win win win win win win win win win win win win win win
+fold check fold fold check fold check check check fold check raise
+restart moneyIn restart restart moneyIn lose lose lose lose lose lose lose
+fold raise check raise raise fold fold fold fold fold check fold fold fold fold raise fold check fold fold raise
+restart moneyIn stall moneyIn lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+raise check raise raise raise check fold fold check raise check check fold check raise check fold fold
+moneyIn stall moneyIn lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+check raise fold check fold raise fold fold fold check fold raise fold raise check check check check check fold check
+moneyIn moneyIn lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+fold raise raise fold raise check raise fold fold raise check check check check raise raise fold fold fold raise fold
+restart moneyIn moneyIn lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+raise raise fold fold fold raise check check check fold raise fold fold fold fold raise raise check fold fold raise
+moneyIn moneyIn lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+check raise check raise raise raise fold fold raise check check raise check raise check raise check fold raise check fold
+moneyIn moneyIn stall win win win win win win win win win win win win win win win win win win
+fold fold fold fold
+restart restart restart restart
+check raise check fold fold check fold check raise raise check check fold raise check check raise check fold
+moneyIn moneyIn stall lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+fold raise check raise
+restart moneyIn stall moneyIn
+check raise check check fold fold fold raise fold raise check check fold raise fold raise raise fold fold fold raise
+moneyIn moneyIn stall win win win win win win win win win win win win win win win win win win
+raise raise raise check check fold fold raise check check check fold fold check check check raise check
+moneyIn moneyIn stall win win win win win win win win win win win win win win win
+fold check check fold check fold check fold check fold fold check fold fold fold check fold check raise raise fold
+restart moneyIn stall restart moneyIn lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+fold raise fold fold fold raise check raise fold check fold check raise raise raise raise raise check raise fold fold
+restart moneyIn restart restart restart moneyIn stall stall lose lose lose lose lose lose lose lose lose lose lose lose lose
+check fold
+moneyIn restart
+raise check fold check fold check raise fold raise check fold raise fold check raise check check raise fold raise fold
+moneyIn stall restart moneyIn lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+raise check raise fold fold check raise fold check
+moneyIn stall moneyIn lose lose lose lose lose lose
+fold fold check fold check raise raise raise raise raise fold fold check check raise raise raise check fold raise check
+restart restart moneyIn restart moneyIn stall stall win win win win win win win win win win win win win win
+raise check raise fold raise fold check fold fold fold raise check fold check raise check check raise raise check fold
+moneyIn stall moneyIn lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+check fold check raise check check fold check fold
+moneyIn restart moneyIn stall stall win win win win
+raise check fold fold raise check raise raise raise raise fold check fold check check raise raise raise raise check check
+moneyIn stall restart restart moneyIn stall stall win win win win win win win win win win win win win win
+fold fold check raise raise check raise check check check check raise raise check fold fold raise check check check check
+restart restart moneyIn moneyIn stall win win win win win win win win win win win win win win win win
+fold raise fold check raise fold raise check check raise fold
+restart moneyIn restart moneyIn stall lose lose lose lose lose lose
+fold raise fold raise fold fold fold fold fold raise raise fold fold check raise fold fold raise fold raise
+restart moneyIn restart moneyIn lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+raise raise fold raise check raise
+moneyIn moneyIn lose lose lose lose
+check check raise check check check fold check fold check fold check raise check raise fold check fold check check fold
+moneyIn stall moneyIn lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose lose
+fold check fold raise check fold check fold check check
+restart moneyIn restart moneyIn stall lose lose lose lose lose
